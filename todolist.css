@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: linear-gradient(to right,aqua, black , tomato);
+    background-image: linear-gradient(to right, red, white , green);
 }
 
 .container-title {
@@ -21,7 +21,7 @@ body {
     min-height: 50px;
     padding: 0 10px;
     font-size: 10px;
-    border-radius: 10px;
+    border-radius: 25px;
     border-color: tomato;
 }
 
