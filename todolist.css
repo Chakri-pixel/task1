@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: linear-gradient(to right, #605e7e, #6b73c1, #37b3cc);
+    background-image: linear-gradient(to right,aqua, black , tomato);
 }
 
 .container-title {
@@ -81,7 +81,7 @@ body {
 }
 
 .item {
-    background-color: blue;
+    background-color: orange;
     min-height: 50px;
     word-wrap: break-word;
     word-break: break-all;
